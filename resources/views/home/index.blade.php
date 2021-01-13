@@ -18,7 +18,7 @@
 <link rel="icon" type="image/png" sizes="192x192"  href="images/android-icon-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
 <!-- favicons -->
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -260,9 +260,9 @@
 <footer id="Contact">
   <div class="container">
     <p>Si tienes un proyecto apasionante, sientete libre de ponerse en contacto con nosotros</p>
-    <a href="mailto:iamricardo169@gmail.com" class="email-btn"><span><i class="fa fa-envelope-o" aria-hidden="true"></i> Email Me</span></a>
+    <a href="mailto:iamricardo169@gmail.com" class="email-btn"><span><i class="fa fa-envelope-o" aria-hidden="true"></i> Eviar Correo</span></a>
     <ul class="social-icons">
-      <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+      <li><a href="https://www.facebook.com/iamricardowebsite"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
