@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Digital Service</title>
+<title>Iam Ricardo Tecnologias web, Intalaciones, Soluciones, Diseños de paginas web y mas</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" shrink-to-fit="no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +29,7 @@
 <body>
   <header>
     <div class="mobile-logo">
-    <a href=""><img src="images/o.png"></a>
+    <a href=""><img src="images/logos/logo_tienda.png"></a>
   </div>
   <a class="menu-toggle rounded" href="#">
     <i class="fa fa-bars"></i>
@@ -142,7 +142,7 @@
           <br>
           <a class="btn btn-warning" href="https://www.amazon.com.mx/gp/product/B08FBSZ2LX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08FBSZ2LX&linkCode=as2&tag=iamricardo169-20&linkId=149003a876492cdf9915ca74bed1b3ef" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
           <h3>Precio $8,998.00 Envío GRATIS</h3>
-          <p>Tv Samsung Crystal 4K UHD 43" Smart Tv UN43TU6900FXZX (2020)</p>
+          <p>Tv Samsung Crystal 4K UHD 43" Smart</p>
         </div>
       </div>
       <div class="each-block clearfix two"> 
@@ -153,7 +153,7 @@
           <br>
           <a class="btn btn-warning" href="https://www.amazon.com.mx/gp/product/B07Y5H3BFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07Y5H3BFC&linkCode=as2&tag=iamricardo169-20&linkId=531a0d1e38d079c64c8b7362990f5e92" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
           <h3>Precio $769.00 Envío GRATIS. </h3>
-          <p>TECHVIDA Mesa Laptop, Bastidor de Enfriamiento para Computadora Portátil , Soporte de Aluminio Ajustable Portátil, Doble Ventilador y Tablero para Mouse, Portátil Universal, Adecuado para Sofás, Camas, etc, Diseño Ergonómico (Negro)</p>
+          <p>TECHVIDA Mesa Laptop, Bastidor de Enfriamiento para Computadora Portátil</p>
         </div>
       </div>
       <div class="each-block clearfix three"> 
@@ -164,10 +164,10 @@
           <br>
           <a class="btn btn-warning" href="https://www.amazon.com.mx/gp/product/B08H7JXVHW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08H7JXVHW&linkCode=as2&tag=iamricardo169-20&linkId=815c56209b3bac31183b7cab213a9d6f" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
           <h3>Precio $1,619.00 Envío GRATIS </h3>
-          <p>Sony Interactive Entertainment LLCPs5 Dualsense_LatControl Inalámbrico DualSense - Standard Edition</p>
+          <p>Sony Interactive Entertainment LLCPs5 Dualsense_LatControl Inalámbrico</p>
         </div>
       </div>
-      <div class="each-block clearfix fourt"> 
+   <!-- aqui  <div class="each-block clearfix fourt"> 
         <div class="icon">
           <img src="images/tienda/silla.jpg" width="300" height="200" border="0" alt="" style="border:none !important; margin:0px !important;">
         </div>
@@ -210,7 +210,7 @@
           <h3>Precio $1,199.00 Envío GRATIS </h3>
           <p>TOPLIVING Silla para Oficina Operativa Silla Economica Ergonomica Silla Ejecutiva (Gris)</p>
         </div>
-      </div>
+      </div> aqui -->
     </div>
     
     <div class="learnmore">

@@ -344,28 +344,28 @@ body.active .mscroll {
     top: 0;
 }
 #OurBlog .each-block.two {
-    top: 0%;
+    top: 70%;
     right: 0;
 }
 #OurBlog .each-block.three {
-    top: 78%;
+    top: 165%;
     left: 0;
 }
 #OurBlog .each-block.fourt {
-    top: 110%;
+    top: 260%;
     right: 0;
 }
 #OurBlog .each-block.five {
-    top: 160%;
+    top: 340%;
     left: 0;
 }
 #OurBlog .each-block.six {
-    top: 190%;
-    right: 0;
+    top: 440%;
+    right: 0%;                                              
 }
 #OurBlog .each-block.seven {
-    top: 260%;
-    left: 0;
+    top: 550%;
+    left: 0%;
 }
 #OurBlog .each-block .icon {
   float: left;
@@ -422,7 +422,7 @@ body.active .mscroll {
 /*ESTE CODIGO BAJA EL BOTON DE LEER MAS*/
 #OurBlog .learnmore {
 	text-align: center;
-	padding: 600px;
+	padding: 300px;
 }
 #OurBlog .learnmore a {
     background-color: #e6275c;
