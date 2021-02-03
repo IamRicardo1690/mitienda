@@ -100,18 +100,18 @@
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
         <div class="grey-box">
-          <img src="images/logos/logo_tienda2.png" alt="Sponser">
+          <img src="images/logos/promocion_qr.jpg" alt="Sponser">
           <div class="sponser">
-            <h4>PATROCINADORES</h4>
+            <h4>PROMOCIONES</h4>
           </div>
         </div>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9">
         <div class="each-work space">
-          <img src="images/tienda.png" alt="Bearbrand">
+          <img class="img-responsive" src="images/logos/tarjeta.jpg" alt="Bearbrand" margin="0 auto" max-width="350%" width="270%">
         </div>
-         <div class="each-work">
-          <img src="images/tienda.png" alt="Designer">
+   <!--      <div class="each-work">
+          <img src="images/logos/qr_el_encanto.png" alt="Designer">
         </div>
         <div class="each-work space">
           <img src="images/tienda.png" alt="Mountain">
@@ -124,7 +124,7 @@
         </div>
          <div class="each-work">
           <img src="images/tienda.png" alt="Hipster">
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
