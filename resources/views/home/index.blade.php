@@ -9,7 +9,12 @@
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
 <!-- favicons -->
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Template Stylesheet -->
+    <link rel="stylesheet" href="css/tienda.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Responsive Stylesheet -->
+    <link rel="stylesheet" href="css/responsive.css">
+
 <link rel="stylesheet" type="text/css" href="css/custom-responsive-style.css">
 <script type="text/javascript" src="scripts/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="scripts/plugin-active.js"></script>
@@ -31,7 +36,7 @@
         <a class="smooth-scroll" href="#Services">Acerca de IamRicardo</a>
       </li>
       <li class="sidebar-nav-item">
-        <a class="smooth-scroll" href="#OurWork">Nuestro equipo</a>
+        <a class="smooth-scroll" href="#OurWork">Nuestro Trabajo</a>
       </li>
       <li class="sidebar-nav-item">
         <a class="smooth-scroll" href="#OurBlog">Tienda</a>
@@ -41,6 +46,9 @@
       </li>
       <li class="sidebar-nav-item">
         <a class="smooth-scroll" href="#Contact">Contacto</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="" href="https://iamricardo169.blogspot.com/2021/01/iamricardo-conectamos-tu-vida-una-red.html">Mi Blog</a>
       </li>
     </ul>
   </nav>
@@ -88,7 +96,7 @@
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
         <div class="grey-box">
-          <img src="images/logos/promocion_qr.jpg" alt="Sponser">
+          <img src="images/logos/qr.png" alt="Sponser">
           <div class="sponser">
             <h4>PROMOCIONES</h4>
           </div>
@@ -96,7 +104,7 @@
       </div>
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9">
         <div class="each-work space">
-          <img class="img-responsive" src="images/logos/tarjeta.jpg" alt="Bearbrand" margin="0 auto" max-width="350%" width="270%">
+          <img class="img-responsive" src="images/logos/tarjeta.png" alt="Bearbrand" margin="0 auto" max-width="350%" width="270%">
         </div>
    <!--      <div class="each-work">
           <img src="images/logos/qr_el_encanto.png" alt="Designer">
@@ -207,6 +215,67 @@
     
   </div>
 </section>
+
+
+    <!-- Recent Posts Start -->
+    <section class="recent-posts">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="single-rpost d-sm-flex align-items-center" data-aos="fade-right"data-aos-duration="800">
+                        <div class="post-content text-sm-right">
+                            <a class="segunda btn btn-warning" href="https://amzn.to/3kPI0qY" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
+                            <h3><a href="https://amzn.to/3kPI0qY">Kingston USB DT100G3 128GB</a></h3>
+                            <p><a href="https://amzn.to/3kPI0qY">Precio recomendado:  $499.00</a> <a href="https://amzn.to/3kPI0qY">Precio:  $379.00</a></p>
+                        </div>
+                        <div class="post-thumb">
+                            <img class="img-fluid" src="images/tienda_dos/uno.png" alt="Post 1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single-rpost d-sm-flex align-items-center" data-aos="fade-left" data-aos-duration="800">
+                        <div class="post-thumb">
+                            <img class="img-fluid" src="images/tienda_dos/dos.png" alt="Post 1">
+                        </div>
+                        <div class="post-content">
+                            <a class="segunda btn btn-warning" href="https://amzn.to/38dOWJu" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
+                            <h3><a href="https://amzn.to/38dOWJu">Anker Soundcore Bocina Bluetooth 12W alta calidad</a></h3>
+                            <p><a href="https://amzn.to/38dOWJu">Precio recomendado: $2,199.00</a> <a href="https://amzn.to/38dOWJu">Precio: $1,699.00</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single-rpost d-sm-flex align-items-center" data-aos="fade-right" data-aos-delay="200"
+                        data-aos-duration="800">
+                        <div class="post-content text-sm-right">
+                            <a class="segunda btn btn-warning" href="https://amzn.to/3qhG37X" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
+                            <h3><a href="https://amzn.to/3qhG37X">onn Pantalla 32" LED HD Smart TV ROKU 720P</a></h3>
+                            <p><a href="https://amzn.to/3qhG37X">Nuevo precio: $3,290.00</a>, <a href="https://amzn.to/3qhG37X">Precio: $2,949.00</a></p>
+                        </div>
+                        <div class="post-thumb">
+                            <img class="img-fluid" src="images/tienda_dos/tres.png" alt="Post 1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="single-rpost d-sm-flex align-items-center" data-aos="fade-left" data-aos-delay="200"
+                        data-aos-duration="800">
+                        <div class="post-thumb">
+                            <img class="img-fluid" src="images/tienda_dos/cuatro.png" alt="Post 1">
+                        </div>
+                        <div class="post-content">
+                            <a class="segunda btn btn-warning" href="https://amzn.to/2OtMqaV" title="Comprar en Amazon" target="_blank" rel="nofollow">Comprar en Amazon</a>
+                            <h3><a href="https://amzn.to/2OtMqaV">Lenovo IdeaPad 3 pantalla táctil, Intel i5 12 GB RAM, 256 GB SSD</a></h3>
+                            <p><a href="https://amzn.to/2OtMqaV">Precio:  $15,351.45</a>, <a href="https://amzn.to/2OtMqaV">+ $191.26 de envío.</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Recent Posts End -->
+
 <section id="Testimonials">
    <div class="container">
     <h2>Desarrollo de paginas web</h2>
@@ -237,7 +306,7 @@
           <div class="profile">
             <img src="images/user-profile-two.png" alt="">
             <div class="designation">
-              <h6>Uriel Cipriano</h6>
+              <h6>Desarrollador</h6>
               <p>Sistema de inventariado</p>
             </div>
           </div>
@@ -247,14 +316,14 @@
 </section>
 <footer id="Contact">
   <div class="container">
-    <p>Si tienes un proyecto apasionante, sientete libre de ponerse en contacto con nosotros</p>
-    <a href="mailto:iamricardo169@gmail.com" class="email-btn"><span><i class="fa fa-envelope-o" aria-hidden="true"></i> Eviar Correo</span></a>
+    <p>Es hora de llevar tu negocio a la pantalla de tu celular y tener mas exito</p>
+    <a href="mailto:contactoweb@iamricardo.dev" class="email-btn"><span><i class="fa fa-envelope-o" aria-hidden="true"></i> Eviar Correo</span></a>
     <ul class="social-icons">
       <li><a href="https://www.facebook.com/iamricardowebsite"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
       <li><a href=""><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-      <li><a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+      <li><a href="https://iamricardo169.blogspot.com/2021/01/iamricardo-conectamos-tu-vida-una-red.html"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
     </ul>
   </div>
 </footer>
